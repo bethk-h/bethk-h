@@ -2,7 +2,7 @@
 
 **Computational Biologist | Bioinformatician | QMUL Genome Centre**
 
-Disease-focused bioinformatician with 5+ years across multi-omics. I work as the sole bioinformatician in a genomics core facility, leading end-to-end analysis for academic and biotech partners — from experimental design through to bespoke pipelines and biological interpretation.
+Disease-focused bioinformatician with 5+ years experience across multi-omics. I work as the sole bioinformatician in a genomics core facility, leading end-to-end analysis for academic and biotech partners — from experimental design through to bespoke pipelines and biological interpretation.
 
 Wet lab background means I think biologically first, computationally second.
 
@@ -36,9 +36,7 @@ ML classifier to detect senescent cells in vivo from scRNA-seq data. Built with 
 | Repo | Description | Language |
 |---|---|---|
 | [SenPred_HDF](https://github.com/bethk-h/SenPred_HDF) | Senescence ML classifier from scRNA-seq | R |
-| [bulk-rnaseq-pipeline](https://github.com/bethk-h/bulk-rnaseq-pipeline) | End-to-end bulk RNA-seq pipeline template | Nextflow / R |
-| [visiumhd-qc](https://github.com/bethk-h/visiumhd-qc) | VisiumHD QC pipeline for spatial transcriptomics | R |
-| [scrna-seq-templates](https://github.com/bethk-h/scrna-seq-templates) | Seurat workflow templates for scRNA-seq | R |
+
 
 ---
 
