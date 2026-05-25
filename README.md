@@ -42,9 +42,9 @@ ML classifier to detect senescent cells in vivo from scRNA-seq data. Built with 
 
 ## 📫 Find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bethany--hughes-blue?style=flat&logo=linkedin)](www.linkedin.com/in/
-beth-hughes-phd)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0000--0000--0000-brightgreen?style=flat&logo=orcid)](https://orcid.org/0000-0001-7975-5868)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bethany--hughes-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/beth-hughes-phd)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--7975--5868-brightgreen?style=flat&logo=orcid)](https://orcid.org/0000-0001-7975-5868)
+
 ---
 
 *London, UK · Open to collaborations*
