@@ -2,7 +2,7 @@
 
 **Computational Biologist | Bioinformatician | QMUL Genome Centre**
 
-Disease-focused bioinformatician with 5+ years experience across multi-omics. I work as the sole bioinformatician in a genomics core facility, leading end-to-end analysis for academic and biotech partners — from experimental design through to bespoke pipelines and biological interpretation.
+Disease-focused bioinformatician with 5+ years experience across multi-omics. I work as the sole bioinformatician in a genomics core facility, leading end-to-end analysis for academic and biotech partners - from experimental design through to bespoke pipelines and biological interpretation.
 
 Wet lab background means I think biologically first, computationally second.
 
