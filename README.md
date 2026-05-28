@@ -38,8 +38,8 @@ ML classifier to detect senescent cells in vivo from scRNA-seq data. Built with 
 | Repo | Description | Language |
 |---|---|---|
 | [SenPred_HDF](https://github.com/bethk-h/SenPred_HDF) | Senescence ML classifier from scRNA-seq — published | R |
-| [bulk-rnaseq-pipeline](https://github.com/bethk-h/bulk-rnaseq-pipeline) | edgeR DE analysis, GSEA and g:Profiler pathway workflow 🔧 | R |
-| [spatial-transcriptomics-pipeline](https://github.com/bethk-h/spatial-transcriptomics-pipeline) | VisiumHD QC, clustering and RCTD cell type deconvolution 🔧 | R |
+| [bulk-rnaseq-pipeline]([https://github.com/bethk-h/bulk-rnaseq-pipeline](https://github.com/bethk-h/Bulk-RNA-seq-DE-and-Pathway-Analysis)) | edgeR DE analysis, GSEA and g:Profiler pathway workflow 🔧 | R |
+| [spatial-transcriptomics-pipeline]([https://github.com/bethk-h/spatial-transcriptomics-pipeline](https://github.com/bethk-h/VisiumHD-pipeline)) | VisiumHD QC, clustering and RCTD cell type deconvolution 🔧 | R |
 | [custom-kraken2-database](https://github.com/bethk-h/custom-kraken2-database) | Build a custom Kraken2 database from NCBI accessions 🔧 | Python / Bash |
 
 ---
